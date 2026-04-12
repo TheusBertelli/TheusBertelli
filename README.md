@@ -22,7 +22,6 @@ Estudante de **Desenvolvimento de Software Multiplataforma (DSM)** na **FATEC**,
 **Backend:** Python (Django)
 - **Frontend:** HTML, CSS React, JavaScript, Tailwind CSS
 - **Arquitetura:** Foco em separação de preocupações (Scripts independentes de arquivos HTML)
-- **Arquitetura:** Foco em separação de preocupações (Scripts independentes de arquivos HTML)
   <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,py,django" />
 </div>
