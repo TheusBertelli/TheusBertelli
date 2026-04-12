@@ -26,22 +26,12 @@ Estudante de **Desenvolvimento de Software Multiplataforma (DSM)** na **FATEC**,
 - **Mobile:** Mobile System Modding via ADB, SetEdit e Game Turbo.
 - **Hardware:** Manutenção física e aplicação de interface térmica de alta eficiência.
 
-**Otimização e Performance:**
-- **Sistema:** ThrottleStop (Undervolting/Power Management), Process Lasso, ISLC.
-- **Mobile:** Mobile System Modding via ADB.
-- **Hardware:** Manutenção física e aplicação de interface térmica de alta eficiência.
-
 ---
 
 ### 📂 Projetos em Destaque
 
-#### 📱 Rede Social & Blog (Em Desenvolvimento)
-Uma plataforma completa construída para unir criadores e comunidades.
-- **Backend:** Django para uma API robusta e segura.
-- **Frontend:** Interface responsiva e moderna com React e Tailwind CSS.
-- **Diferencial:** Estrutura modular com lógica de scripts totalmente desacoplada do HTML, garantindo melhor performance e escalabilidade.
+....
 
----
 
 ### 📫 Como me encontrar
 
