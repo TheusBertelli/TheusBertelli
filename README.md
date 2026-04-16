@@ -29,6 +29,8 @@ Estudante de **Desenvolvimento de Software Multiplataforma (DSM)** na **FATEC**,
 
 ### 📂 Projetos em Destaque
 
+JWC Consertos: [Link do Repositório](https://github.com/Interdisciplinar-Fatec)
+- Um dos responsáveis pela criação da vitrine do site, utilizando HTML, CSS e JavaScript.
 ....
 
 
