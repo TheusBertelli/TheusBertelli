@@ -23,8 +23,7 @@ Estudante de **Desenvolvimento de Software Multiplataforma (DSM)** na **FATEC**,
 
 **Otimização e Performance:**
 - **Sistema:** ThrottleStop (Undervolting/Power Management), Process Lasso, ISLC.
-- **Mobile:** Mobile System Modding via ADB, SetEdit e Game Turbo.
-- **Hardware:** Manutenção física e aplicação de interface térmica de alta eficiência.
+- **Mobile:** Mobile System Modding via ADB.
 
 ---
 
