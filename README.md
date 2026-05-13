@@ -29,9 +29,9 @@ Estudante de **Desenvolvimento de Software Multiplataforma (DSM)** na **FATEC**,
 
 ### 📂 Projetos em Destaque
 
-JWC Consertos: [Link do Repositório](https://github.com/Interdisciplinar-Fatec)
+- JWC Consertos: [Link do Repositório](https://github.com/Interdisciplinar-Fatec)
 
-Conecta FATEC [Link do Repositório](https://github.com/Conecta-Fatec)
+- Conecta FATEC [Link do Repositório](https://github.com/Conecta-Fatec)
 
 ### 📫 Como me encontrar
 
@@ -42,18 +42,3 @@ Conecta FATEC [Link do Repositório](https://github.com/Conecta-Fatec)
 ---
 
 > "Otimizar não é apenas sobre velocidade, é sobre eficiência e durabilidade."
-
-<!--
-**TheusBertelli/TheusBertelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
