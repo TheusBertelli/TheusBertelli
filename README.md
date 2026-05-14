@@ -35,7 +35,7 @@ Estudante de **Desenvolvimento de Software Multiplataforma (DSM)** na **FATEC**,
 
 ### 📫 Como me encontrar
 
-- **LinkedIn:** [Matheus Bertelli](www.linkedin.com/in/matheus-bertelli-31951a287)
+- **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/matheus-bertelli-31951a287)
 - **E-mail:** [matheusbertelli06@gmail.com](mailto:matheusbertelli06@gmail.com)
 - **Localização:** São Paulo, Brasil 🇧🇷
 
